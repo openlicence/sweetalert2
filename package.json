@@ -1,7 +1,7 @@
 {
   "name": "sweetalert2",
   "version": "11.17.2",
-  "repository": "sweetalert2/sweetalert2",
+  "repository": "openlicence/sweetalert2",
   "homepage": "https://sweetalert2.github.io/",
   "description": "A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes, supported fork of sweetalert",
   "main": "dist/sweetalert2.all.js",
@@ -79,6 +79,6 @@
     "quoteProps": "consistent",
     "trailingComma": "es5"
   },
-  "bugs": "https://github.com/sweetalert2/sweetalert2/issues",
+  "bugs": "https://github.com/openlicence/sweetalert2/issues",
   "license": "MIT"
 }
